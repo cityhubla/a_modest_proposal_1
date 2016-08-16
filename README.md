@@ -27,3 +27,5 @@ A method would be to use jQuery to access and fill the input to the unique ids o
 This would be possible if this simple page was loaded on the same server so that there is no issue with the Cross Origin Resource Sharing (CORS) mechanism in place on our web browsers. There would be no change to the ZIMAS code.
 
 The other alternative would be for the Housing Department to upload the RSO data to LA's amazing Open Data Portals.
+
+my thanks to [@machikoyasuda](https://twitter.com/machikoyasuda) for bringing this up
